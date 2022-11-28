@@ -18,6 +18,7 @@ public class JavaExamples {
 		JavaExamples obj = new JavaExamples();
 		System.out.println(obj.i);
 		System.out.println(obj.add(9, 1));
+		System.out.println("hi");
 		// TODO Auto-generated method stub
 
 	}
